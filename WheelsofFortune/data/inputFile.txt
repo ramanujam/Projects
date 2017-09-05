@@ -1,0 +1,3 @@
+echo, the cool product by Amazon
+apple, what did Wozniac create
+grit, a book by angela duckworth
