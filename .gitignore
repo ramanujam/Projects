@@ -15,14 +15,14 @@
 *.dmg
 *.gz
 *.iso
-*.jar
+#*.jar
 *.rar
 *.tar
 *.zip
 
 # Logs and databases #
 ######################
-*.log
+#*.log
 *.sql
 *.sqlite
 
